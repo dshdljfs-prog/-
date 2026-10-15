@@ -37,13 +37,23 @@
  "posts": [],
  "ads": {
   "top": {
-   "on": false
+   "on": false,
+   "img": "uploads/mv8uvwfikh7-1000258103.png",
+   "text": "",
+   "link": "",
+   "code": ""
   },
   "mid": {
-   "on": false
+   "on": true,
+   "text": "اهلا بكم في موقعنا",
+   "link": "https://dshdljfs-prog.github.io/-/",
+   "code": "https://dshdljfs-prog.github.io/-/"
   },
   "bot": {
-   "on": false
+   "on": true,
+   "text": "",
+   "link": "",
+   "code": ""
   }
  },
  "gallery": []
