@@ -93,7 +93,7 @@
   "bot": {
    "on": true,
    "text": "بوده المكسيكي ",
-   "link": "",
+   "link": "https://www.facebook.com/share/1F8NJ6sCnq/",
    "code": "",
    "img": "uploads/mv9sg00708u-1000258104.png"
   }
@@ -142,5 +142,5 @@
    "color": "#9b3fc4"
   }
  ],
- "ver": 1792083861701
+ "ver": 1792083923671
 }
