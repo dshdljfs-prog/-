@@ -71,7 +71,7 @@
  "posts": [],
  "ads": {
   "top": {
-   "on": true,
+   "on": false,
    "img": "uploads/mv8uvwfikh7-1000258103.png",
    "text": "",
    "link": "",
@@ -84,7 +84,7 @@
    "code": ""
   },
   "bot": {
-   "on": true,
+   "on": false,
    "text": "",
    "link": "",
    "code": ""
@@ -130,5 +130,5 @@
    "kind": "fb"
   }
  ],
- "ver": 1792059087691
+ "ver": 1792059118996
 }
