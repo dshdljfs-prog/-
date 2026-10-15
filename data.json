@@ -27,19 +27,6 @@
  },
  "apps": [
   {
-   "shots": [],
-   "name": "تطبيق اختراق",
-   "cat": "أدوات",
-   "ver": "1.2",
-   "size": "100MB",
-   "url": "",
-   "desc": "",
-   "feat": true,
-   "icon": "uploads/mv8vokb00wz-1000258101.png",
-   "id": "mv8voq4mezw",
-   "date": 1792028813638
-  },
-  {
    "shots": [
     "uploads/mv8uux4jtt8-1000258980.jpg"
    ],
@@ -117,5 +104,5 @@
    "kind": "fb"
   }
  ],
- "ver": 1792059129961
+ "ver": 1792059135339
 }
