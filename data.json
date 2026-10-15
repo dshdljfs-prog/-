@@ -47,7 +47,16 @@
    "icon": "uploads/mv8uupnixcw-1000258100.png"
   }
  ],
- "posts": [],
+ "posts": [
+  {
+   "id": "mv8wb1qga41",
+   "title": "بوده المكسيكي",
+   "cat": "شروحات",
+   "body": "سلام عليكم ",
+   "img": "uploads/mv8waxce60u-1000258608.jpg",
+   "date": 1792029855112
+  }
+ ],
  "ads": {
   "top": {
    "on": false,
@@ -57,19 +66,17 @@
    "code": ""
   },
   "mid": {
-   "on": false,
-   "text": "",
-   "link": "",
-   "code": ""
+   "on": true,
+   "text": "اهلا بكم في موقعنا",
+   "link": "https://dshdljfs-prog.github.io/-/",
+   "code": "https://dshdljfs-prog.github.io/-/"
   },
   "bot": {
-   "on": false,
+   "on": true,
    "text": "",
    "link": "",
    "code": ""
   }
  },
- "gallery": [
-  "uploads/mv8w9l900i2-1000258812.png"
- ]
+ "gallery": []
 }
