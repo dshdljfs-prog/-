@@ -23,9 +23,23 @@
    "apps": "آخر التطبيقات",
    "posts": "الشروحات والمقالات",
    "foot": ""
-  }
+  },
+  "maintenance": false,
+  "maintenanceMsg": "الموقع تحت الصيانة، هنرجع قريبًا."
  },
  "apps": [
+  {
+   "shots": [],
+   "name": "تشفير وفك تشفير",
+   "cat": "تطبيقات",
+   "ver": "1.0",
+   "size": "25",
+   "url": "",
+   "desc": "توت",
+   "feat": false,
+   "id": "mv9q8qppwsy",
+   "date": 1792080135997
+  },
   {
    "shots": [
     "uploads/mv8uux4jtt8-1000258980.jpg"
@@ -108,5 +122,5 @@
    "color": "#9b3fc4"
   }
  ],
- "ver": 1792063470140
+ "ver": 1792080135997
 }
