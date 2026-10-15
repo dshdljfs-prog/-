@@ -77,23 +77,25 @@
  "posts": [],
  "ads": {
   "top": {
-   "on": false,
-   "img": "uploads/mv8uvwfikh7-1000258103.png",
-   "text": "",
+   "on": true,
+   "img": "uploads/mv9sdx7ni6z-1000257750.png",
+   "text": "مطور التطبيق ",
    "link": "",
    "code": ""
   },
   "mid": {
-   "on": false,
+   "on": true,
    "text": "اهلا بكم في موقعنا",
    "link": "",
-   "code": ""
+   "code": "",
+   "img": "uploads/mv9sfabmems-1000258100.png"
   },
   "bot": {
-   "on": false,
-   "text": "",
+   "on": true,
+   "text": "بوده المكسيكي ",
    "link": "",
-   "code": ""
+   "code": "",
+   "img": "uploads/mv9sg00708u-1000258104.png"
   }
  },
  "gallery": [],
@@ -140,5 +142,5 @@
    "color": "#9b3fc4"
   }
  ],
- "ver": 1792083447094
+ "ver": 1792083861701
 }
