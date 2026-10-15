@@ -25,9 +25,24 @@
    "foot": "متجر بوده المكسيكي العربي"
   },
   "maintenance": false,
-  "maintenanceMsg": "الموقع تحت الصيانة، هنرجع قريبًا."
+  "maintenanceMsg": "الموقع تحت الصيانة، هنرجع قريبًا.",
+  "reqLogin": false
  },
  "apps": [
+  {
+   "shots": [],
+   "name": "تشفير وفك تشفير",
+   "cat": "ألعاب",
+   "ver": "1.0",
+   "size": "25",
+   "url": "",
+   "desc": "",
+   "yt": "",
+   "feat": false,
+   "icon": "uploads/mva0rppnp7g-1000258608.jpg",
+   "id": "mva0rt947x8",
+   "date": 1792097821912
+  },
   {
    "shots": [
     "uploads/mv9s7ib2ybp-1000259766.jpg"
@@ -142,5 +157,14 @@
    "color": "#9b3fc4"
   }
  ],
- "ver": 1792096381631
+ "ver": 1792097822510,
+ "sections": [],
+ "bans": [],
+ "admins": [],
+ "pub": null,
+ "stats": {},
+ "maint": {
+  "on": false,
+  "msg": "الموقع تحت الصيانة حاليًا، نعود قريبًا ✨"
+ }
 }
