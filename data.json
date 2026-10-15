@@ -78,10 +78,10 @@
    "code": ""
   },
   "mid": {
-   "on": true,
+   "on": false,
    "text": "اهلا بكم في موقعنا",
-   "link": "https://dshdljfs-prog.github.io/-/",
-   "code": "https://dshdljfs-prog.github.io/-/"
+   "link": "",
+   "code": ""
   },
   "bot": {
    "on": true,
@@ -130,5 +130,5 @@
    "kind": "fb"
   }
  ],
- "ver": 1792059068205
+ "ver": 1792059087691
 }
