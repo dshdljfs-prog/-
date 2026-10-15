@@ -30,6 +30,21 @@
  "apps": [
   {
    "shots": [
+    "uploads/mv9rv6bbj11-1000259762.jpg"
+   ],
+   "name": "الديب سيك مهكر",
+   "cat": "تطبيقات",
+   "ver": "v2.6.2",
+   "size": "20.4",
+   "url": "https://traidmod.org/deepseek-ai-assistant/get/?urls=https://s1.tmdownload.org/Deepseek-v2.6.2.apk&names=%D8%AF%D9%8A%D8%A8%20%D8%B3%D9%8A%D9%83%20DeepSeek%20%D9%85%D9%87%D9%83%D8%B1%20%D8%A7%D9%84%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1%20:%20v2.6.2%20%E2%9C%85%F0%9F%92%93",
+   "desc": "",
+   "feat": false,
+   "icon": "uploads/mv9rtqx08sj-1000259762.jpg",
+   "id": "mv9rx5ztave",
+   "date": 1792082955161
+  },
+  {
+   "shots": [
     "uploads/mv8uux4jtt8-1000258980.jpg"
    ],
    "name": "تطبيق تشفير وفك تشفير",
@@ -110,5 +125,5 @@
    "color": "#9b3fc4"
   }
  ],
- "ver": 1792080398510
+ "ver": 1792082955162
 }
