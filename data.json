@@ -146,7 +146,7 @@
    "color": "#9b3fc4"
   }
  ],
- "ver": 1792103235877,
+ "ver": 1792103280592,
  "sections": [
   {
    "title": "مهكر",
@@ -166,7 +166,14 @@
    "id": "mva30p9aalq"
   }
  ],
- "bans": [],
+ "bans": [
+  {
+   "id": "mva40smo03u",
+   "lbl": "💬 ب***",
+   "hu": "5c32bef3e96e2c81a4d6cc0265bf047b51d1f5940f2b4229e5e1be13bbff76ac",
+   "t": 1792103279856
+  }
+ ],
  "admins": [
   {
    "id": "mva1dtc2h6v",
