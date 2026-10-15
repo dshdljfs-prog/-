@@ -146,10 +146,24 @@
    "color": "#9b3fc4"
   }
  ],
- "ver": 1792098806539,
+ "ver": 1792098849293,
  "sections": [],
  "bans": [],
- "admins": [],
+ "admins": [
+  {
+   "id": "mva1dtc2h6v",
+   "name": "عبده",
+   "salt": "cf2c1d030ce73dd035e5ad9e",
+   "h": "74f2afc7318fd84b7816334e5364e936ba8b33be2b3611bfb19d1daee403e605",
+   "perms": {
+    "pub": 1,
+    "ban": 1,
+    "msg": 1,
+    "mnt": 0
+   },
+   "t": 1792098848450
+  }
+ ],
  "pub": {
   "alg": "RSA-OAEP-256",
   "e": "AQAB",
