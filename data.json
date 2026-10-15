@@ -146,16 +146,9 @@
    "color": "#9b3fc4"
   }
  ],
- "ver": 1792098758240,
+ "ver": 1792098773211,
  "sections": [],
- "bans": [
-  {
-   "id": "mva1bvc05oa",
-   "t": 1792098757728,
-   "hn": "e83a41859040242ca67d27038a6ccfeb5db1cc69853d0ee44d0676aca582e76e",
-   "lbl": "👤 ع***"
-  }
- ],
+ "bans": [],
  "admins": [],
  "pub": {
   "alg": "RSA-OAEP-256",
