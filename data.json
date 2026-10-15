@@ -26,7 +26,7 @@
   },
   "maintenance": false,
   "maintenanceMsg": "الموقع تحت الصيانة، هنرجع قريبًا.",
-  "reqLogin": false
+  "reqLogin": true
  },
  "apps": [
   {
@@ -146,7 +146,7 @@
    "color": "#9b3fc4"
   }
  ],
- "ver": 1792098577557,
+ "ver": 1792098596413,
  "sections": [],
  "bans": [],
  "admins": [],
