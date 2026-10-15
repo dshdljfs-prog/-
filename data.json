@@ -19,7 +19,9 @@
  },
  "apps": [
   {
-   "shots": [],
+   "shots": [
+    "uploads/mv8up1s0ydv-1000258980.jpg"
+   ],
    "name": "تشفير وفك تشفير ",
    "cat": "تطبيقات",
    "ver": "1.0",
