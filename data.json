@@ -146,8 +146,17 @@
    "color": "#9b3fc4"
   }
  ],
- "ver": 1792101499827,
- "sections": [],
+ "ver": 1792101597082,
+ "sections": [
+  {
+   "title": "تطبيقات المطور بــوده الــمـكـسـيـكي",
+   "kind": "manual",
+   "ids": [
+    "mv8s9eeas6v"
+   ],
+   "id": "mva30p9aalq"
+  }
+ ],
  "bans": [],
  "admins": [
   {
