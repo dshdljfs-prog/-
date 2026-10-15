@@ -146,7 +146,7 @@
    "color": "#9b3fc4"
   }
  ],
- "ver": 1792098103666,
+ "ver": 1792098577557,
  "sections": [],
  "bans": [],
  "admins": [],
@@ -160,7 +160,23 @@
   "kty": "RSA",
   "n": "2a20rhtlusUpwhJjFwCq_kyc6AYOfLEu3V7nmE090mYUGxVHxThNMrK26nZ7VfB5LvVlTw4TI5wUXKb6xTVd0noUoz4ySckxwV5s0ZngB9nYyG-i3MrSVNzedmrnt48a_IkfMo2fhWncOM_tnwTduSeD69t5__LkTXNGv-WugXpy51Iy89s7yyzenx-0SxXdw0F1FJHhdLdVy7sgDP2HkYFMIs9Xzu5iPv5H5y-6-l6cqsgp72x9Jwv9K6mjHxjXTOxRCC_TOd3bCyp4lxCKbhrhw6Wxl3rxIJiUI8o5g-BOcG8CJYbyIqAaiMvS4uqaP1DLHUbirM1zOoyVUxtNQQ"
  },
- "stats": {},
+ "stats": {
+  "mv9s7pkmo64": {
+   "n": 1,
+   "s": 5,
+   "dl": 1
+  },
+  "mv9rx5ztave": {
+   "n": 1,
+   "s": 5,
+   "dl": 5
+  },
+  "mv8s9eeas6v": {
+   "n": 1,
+   "s": 5,
+   "dl": 3
+  }
+ },
  "maint": {
   "on": false,
   "msg": "الموقع تحت الصيانة حاليًا، نعود قريبًا ✨"
