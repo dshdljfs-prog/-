@@ -30,7 +30,7 @@
    "shots": [
     "uploads/mv8uux4jtt8-1000258980.jpg"
    ],
-   "name": "تشفير وفك تشفير",
+   "name": "تطبيق تشفير وفك تشفير",
    "cat": "تطبيقات",
    "ver": "1.0",
    "size": "5 ميجا بايت",
@@ -39,7 +39,7 @@
    "feat": true,
    "id": "mv8s9eeas6v",
    "date": 1792023059746,
-   "icon": "uploads/mv8uupnixcw-1000258100.png"
+   "icon": "uploads/mv9g99zv4pj-1000257743.png"
   }
  ],
  "posts": [],
@@ -108,5 +108,5 @@
    "color": "#9b3fc4"
   }
  ],
- "ver": 1792060740180
+ "ver": 1792063386546
 }
