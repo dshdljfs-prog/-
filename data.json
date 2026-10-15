@@ -15,9 +15,30 @@
    "تطبيقات",
    "أدوات",
    "شروحات"
-  ]
+  ],
+  "theme": "purple",
+  "t": {
+   "home": "🏠 الرئيسية",
+   "search": "🔍 ابحث عن تطبيق أو لعبة...",
+   "apps": "آخر التطبيقات",
+   "posts": "الشروحات والمقالات",
+   "foot": ""
+  }
  },
  "apps": [
+  {
+   "shots": [],
+   "name": "كالي لنكس",
+   "cat": "أدوات",
+   "ver": "1.2",
+   "size": "100MB",
+   "url": "",
+   "desc": "بوده المكسيكي ",
+   "feat": false,
+   "icon": "uploads/mv9dgi3bc66-1000258099.png",
+   "id": "mv9dglsaet6",
+   "date": 1792058667850
+  },
   {
    "shots": [],
    "name": "تطبيق اختراق",
@@ -69,5 +90,39 @@
    "code": ""
   }
  },
- "gallery": []
+ "gallery": [],
+ "logTopic": "bm-ce755e3d9a100a420926be3c",
+ "ticker": [],
+ "adlinks": [],
+ "chan": [
+  {
+   "id": "c1",
+   "name": "مجموعة واتساب",
+   "desc": "انضم لمجموعتنا على واتساب",
+   "url": "https://chat.whatsapp.com/D4tkhgh8D5KKvQlFhX0Af2?s=cl&p=a&mlu=4&ilr=4",
+   "kind": "wa"
+  },
+  {
+   "id": "c2",
+   "name": "الــمـكــ🇲🇽ـسـيـكي🛡",
+   "desc": "تابع القناة في واتساب",
+   "url": "https://whatsapp.com/channel/0029Vb7xTVb3AzNPUC4TiU2k",
+   "kind": "wa"
+  },
+  {
+   "id": "c3",
+   "name": "تيك توك",
+   "desc": "@b__o__d__a__04",
+   "url": "https://www.tiktok.com/@b__o__d__a__04",
+   "kind": "tt"
+  },
+  {
+   "id": "c4",
+   "name": "فيسبوك",
+   "desc": "تابع صفحتنا على فيسبوك",
+   "url": "https://www.facebook.com/share/1GogYKyH26/",
+   "kind": "fb"
+  }
+ ],
+ "ver": 1792058667851
 }
