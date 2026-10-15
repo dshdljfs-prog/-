@@ -99,15 +99,7 @@
    "exp": 1792080480000
   }
  ],
- "adlinks": [
-  {
-   "id": "mv9dp30zvs2",
-   "text": "index.html",
-   "url": "https://dshdljfs-prog.github.io/-/",
-   "img": "",
-   "on": true
-  }
- ],
+ "adlinks": [],
  "chan": [
   {
    "id": "c1",
@@ -138,5 +130,5 @@
    "kind": "fb"
   }
  ],
- "ver": 1792059063443
+ "ver": 1792059068205
 }
