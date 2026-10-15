@@ -26,7 +26,7 @@
   },
   "maintenance": false,
   "maintenanceMsg": "الموقع تحت الصيانة، هنرجع قريبًا.",
-  "reqLogin": true
+  "reqLogin": false
  },
  "apps": [
   {
@@ -146,7 +146,7 @@
    "color": "#9b3fc4"
   }
  ],
- "ver": 1792102246995,
+ "ver": 1792102300173,
  "sections": [
   {
    "title": "مهكر",
