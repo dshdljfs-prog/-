@@ -146,16 +146,8 @@
    "color": "#9b3fc4"
   }
  ],
- "ver": 1792101647013,
+ "ver": 1792101664757,
  "sections": [
-  {
-   "title": "تطبيقات المطور بــوده الــمـكـسـيـكي",
-   "kind": "manual",
-   "ids": [
-    "mv8s9eeas6v"
-   ],
-   "id": "mva30p9aalq"
-  },
   {
    "title": "مهكر",
    "kind": "manual",
@@ -164,6 +156,14 @@
     "mv9rx5ztave"
    ],
    "id": "mva31s2wd7z"
+  },
+  {
+   "title": "تطبيقات المطور بــوده الــمـكـسـيـكي",
+   "kind": "manual",
+   "ids": [
+    "mv8s9eeas6v"
+   ],
+   "id": "mva30p9aalq"
   }
  ],
  "bans": [],
