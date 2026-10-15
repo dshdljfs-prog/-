@@ -146,7 +146,7 @@
    "color": "#9b3fc4"
   }
  ],
- "ver": 1792101597082,
+ "ver": 1792101647013,
  "sections": [
   {
    "title": "تطبيقات المطور بــوده الــمـكـسـيـكي",
@@ -155,6 +155,15 @@
     "mv8s9eeas6v"
    ],
    "id": "mva30p9aalq"
+  },
+  {
+   "title": "مهكر",
+   "kind": "manual",
+   "ids": [
+    "mv9s7pkmo64",
+    "mv9rx5ztave"
+   ],
+   "id": "mva31s2wd7z"
   }
  ],
  "bans": [],
