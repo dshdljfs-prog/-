@@ -143,14 +143,14 @@
    "color": "#9b3fc4"
   }
  ],
- "ver": 1792097918787,
+ "ver": 1792097928231,
  "sections": [],
  "bans": [],
  "admins": [],
  "pub": null,
  "stats": {},
  "maint": {
-  "on": true,
+  "on": false,
   "msg": "الموقع تحت الصيانة حاليًا، نعود قريبًا ✨"
  }
 }
