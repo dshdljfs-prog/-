@@ -68,15 +68,7 @@
    "icon": "uploads/mv8uupnixcw-1000258100.png"
   }
  ],
- "posts": [
-  {
-   "title": "بوده المكسيكي ",
-   "body": "يكتب....",
-   "cat": "ألعاب",
-   "id": "mv9dk0jlmvz",
-   "date": 1792058826945
-  }
- ],
+ "posts": [],
  "ads": {
   "top": {
    "on": false,
@@ -132,5 +124,5 @@
    "kind": "fb"
   }
  ],
- "ver": 1792058826946
+ "ver": 1792058855743
 }
