@@ -3267,7 +3267,7 @@
    "icon": "uploads/mvbicpaqisr-1000246136.webp"
   }
  ],
- "ver": 1792193744280,
+ "ver": 1792193963976,
  "sections": [
   {
    "title": "مهكر",
@@ -3419,7 +3419,13 @@
  ],
  "pages": [],
  "ed": {
-  "ov": [],
+  "ov": [
+   {
+    "k": "#ubtn",
+    "t": "✅",
+    "ic": "uploads/mvbm0c0eh70-1000147528.png"
+   }
+  ],
   "css": "",
   "js": ""
  }
