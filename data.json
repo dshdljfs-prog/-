@@ -102,7 +102,7 @@
    "url": "https://play.google.com/store/apps/details?id=com.whatsapp",
    "desc": "تطبيق المراسلة والمكالمات المجانية الأشهر في العالم.",
    "shots": [],
-   "icon": "",
+   "icon": "https://www.google.com/s2/favicons?domain=whatsapp.com&sz=128",
    "date": 1792190889610
   },
   {
@@ -114,7 +114,7 @@
    "url": "https://play.google.com/store/apps/details?id=org.telegram.messenger",
    "desc": "مراسلة سريعة وآمنة مع قنوات ومجموعات ضخمة.",
    "shots": [],
-   "icon": "",
+   "icon": "https://www.google.com/s2/favicons?domain=telegram.org&sz=128",
    "date": 1792190889609
   },
   {
@@ -126,7 +126,7 @@
    "url": "https://play.google.com/store/apps/details?id=com.instagram.android",
    "desc": "شارك الصور والريلز وتابع أصدقاءك.",
    "shots": [],
-   "icon": "",
+   "icon": "https://www.google.com/s2/favicons?domain=instagram.com&sz=128",
    "date": 1792190889608
   },
   {
@@ -138,7 +138,7 @@
    "url": "https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically",
    "desc": "مقاطع فيديو قصيرة وترندات يومية.",
    "shots": [],
-   "icon": "",
+   "icon": "https://www.google.com/s2/favicons?domain=tiktok.com&sz=128",
    "date": 1792190889607
   },
   {
@@ -150,7 +150,7 @@
    "url": "https://play.google.com/store/apps/details?id=com.google.android.youtube",
    "desc": "شاهد ملايين الفيديوهات والبث المباشر.",
    "shots": [],
-   "icon": "",
+   "icon": "https://www.google.com/s2/favicons?domain=youtube.com&sz=128",
    "date": 1792190889606
   },
   {
@@ -162,7 +162,7 @@
    "url": "https://play.google.com/store/apps/details?id=com.facebook.katana",
    "desc": "تواصل مع أصدقائك وتابع الأخبار.",
    "shots": [],
-   "icon": "",
+   "icon": "https://www.google.com/s2/favicons?domain=facebook.com&sz=128",
    "date": 1792190889605
   },
   {
@@ -174,7 +174,7 @@
    "url": "https://play.google.com/store/apps/details?id=com.facebook.orca",
    "desc": "رسائل ومكالمات فيديو من فيسبوك.",
    "shots": [],
-   "icon": "",
+   "icon": "https://www.google.com/s2/favicons?domain=messenger.com&sz=128",
    "date": 1792190889604
   },
   {
@@ -186,7 +186,7 @@
    "url": "https://play.google.com/store/apps/details?id=com.snapchat.android",
    "desc": "صور وفلاتر ورسائل تختفي.",
    "shots": [],
-   "icon": "",
+   "icon": "https://www.google.com/s2/favicons?domain=snapchat.com&sz=128",
    "date": 1792190889603
   },
   {
@@ -198,7 +198,7 @@
    "url": "https://play.google.com/store/apps/details?id=com.discord",
    "desc": "دردشة صوتية ونصية للاعبين والمجتمعات.",
    "shots": [],
-   "icon": "",
+   "icon": "https://www.google.com/s2/favicons?domain=discord.com&sz=128",
    "date": 1792190889602
   },
   {
@@ -210,7 +210,7 @@
    "url": "https://play.google.com/store/apps/details?id=com.spotify.music",
    "desc": "ملايين الأغاني والبودكاست.",
    "shots": [],
-   "icon": "",
+   "icon": "https://www.google.com/s2/favicons?domain=spotify.com&sz=128",
    "date": 1792190889601
   },
   {
@@ -222,7 +222,7 @@
    "url": "https://play.google.com/store/apps/details?id=com.netflix.mediaclient",
    "desc": "أفلام ومسلسلات بدون حدود.",
    "shots": [],
-   "icon": "",
+   "icon": "https://www.google.com/s2/favicons?domain=netflix.com&sz=128",
    "date": 1792190889600
   },
   {
@@ -234,7 +234,7 @@
    "url": "https://play.google.com/store/apps/details?id=com.lemon.lvoverseas",
    "desc": "محرر فيديو احترافي وسهل.",
    "shots": [],
-   "icon": "",
+   "icon": "https://www.google.com/s2/favicons?domain=capcut.com&sz=128",
    "date": 1792190889599
   },
   {
@@ -246,7 +246,7 @@
    "url": "https://play.google.com/store/apps/details?id=com.android.chrome",
    "desc": "متصفح سريع وآمن من جوجل.",
    "shots": [],
-   "icon": "",
+   "icon": "https://www.google.com/s2/favicons?domain=chrome.com&sz=128",
    "date": 1792190889598
   },
   {
@@ -258,7 +258,7 @@
    "url": "https://play.google.com/store/apps/details?id=org.videolan.vlc",
    "desc": "مشغل فيديو وصوتيات يشغّل كل الصيغ.",
    "shots": [],
-   "icon": "",
+   "icon": "https://www.google.com/s2/favicons?domain=videolan.org&sz=128",
    "date": 1792190889597
   },
   {
@@ -270,7 +270,7 @@
    "url": "https://play.google.com/store/apps/details?id=com.duolingo",
    "desc": "تعلّم اللغات بشكل ممتع.",
    "shots": [],
-   "icon": "",
+   "icon": "https://www.google.com/s2/favicons?domain=duolingo.com&sz=128",
    "date": 1792190889596
   },
   {
@@ -282,7 +282,7 @@
    "url": "https://play.google.com/store/apps/details?id=com.mojang.minecraftpe",
    "desc": "ابنِ واستكشف عوالم لا نهائية.",
    "shots": [],
-   "icon": "",
+   "icon": "https://www.google.com/s2/favicons?domain=minecraft.net&sz=128",
    "date": 1792190889595
   },
   {
@@ -294,7 +294,7 @@
    "url": "https://play.google.com/store/apps/details?id=com.tencent.ig",
    "desc": "لعبة باتل رويال شهيرة.",
    "shots": [],
-   "icon": "",
+   "icon": "https://www.google.com/s2/favicons?domain=pubgmobile.com&sz=128",
    "date": 1792190889594
   },
   {
@@ -306,7 +306,7 @@
    "url": "https://play.google.com/store/apps/details?id=com.dts.freefireth",
    "desc": "باتل رويال سريعة بدقائق.",
    "shots": [],
-   "icon": "",
+   "icon": "https://www.google.com/s2/favicons?domain=ff.garena.com&sz=128",
    "date": 1792190889593
   },
   {
@@ -318,7 +318,7 @@
    "url": "https://play.google.com/store/apps/details?id=com.activision.callofduty.shooter",
    "desc": "أشهر ألعاب التصويب على الموبايل.",
    "shots": [],
-   "icon": "",
+   "icon": "https://www.google.com/s2/favicons?domain=callofduty.com&sz=128",
    "date": 1792190889592
   },
   {
@@ -330,7 +330,7 @@
    "url": "https://play.google.com/store/apps/details?id=com.roblox.client",
    "desc": "ملايين الألعاب التي يصنعها اللاعبون.",
    "shots": [],
-   "icon": "",
+   "icon": "https://www.google.com/s2/favicons?domain=roblox.com&sz=128",
    "date": 1792190889591
   },
   {
@@ -342,7 +342,7 @@
    "url": "https://play.google.com/store/apps/details?id=com.supercell.clashofclans",
    "desc": "ابنِ قريتك وقُد عشيرتك.",
    "shots": [],
-   "icon": "",
+   "icon": "https://www.google.com/s2/favicons?domain=clashofclans.com&sz=128",
    "date": 1792190889590
   },
   {
@@ -354,7 +354,7 @@
    "url": "https://play.google.com/store/apps/details?id=com.supercell.clashroyale",
    "desc": "معارك أوراق استراتيجية سريعة.",
    "shots": [],
-   "icon": "",
+   "icon": "https://www.google.com/s2/favicons?domain=clashroyale.com&sz=128",
    "date": 1792190889589
   },
   {
@@ -366,7 +366,7 @@
    "url": "https://play.google.com/store/apps/details?id=com.supercell.brawlstars",
    "desc": "معارك جماعية سريعة بشخصيات متنوعة.",
    "shots": [],
-   "icon": "",
+   "icon": "https://www.google.com/s2/favicons?domain=brawlstars.com&sz=128",
    "date": 1792190889588
   },
   {
@@ -378,7 +378,7 @@
    "url": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf",
    "desc": "اركض واهرب في أشهر لعبة جري.",
    "shots": [],
-   "icon": "",
+   "icon": "https://www.google.com/s2/favicons?domain=sybo.com&sz=128",
    "date": 1792190889587
   },
   {
@@ -390,7 +390,7 @@
    "url": "https://play.google.com/store/apps/details?id=com.king.candycrushsaga",
    "desc": "لعبة ألغاب حلوى ممتعة.",
    "shots": [],
-   "icon": "",
+   "icon": "https://www.google.com/s2/favicons?domain=king.com&sz=128",
    "date": 1792190889586
   },
   {
@@ -402,7 +402,7 @@
    "url": "https://play.google.com/store/apps/details?id=com.innersloth.spacemafia",
    "desc": "اكشف المحتال بين الطاقم.",
    "shots": [],
-   "icon": "",
+   "icon": "https://www.google.com/s2/favicons?domain=innersloth.com&sz=128",
    "date": 1792190889585
   },
   {
@@ -414,7 +414,7 @@
    "url": "https://play.google.com/store/apps/details?id=com.miHoYo.GenshinImpact",
    "desc": "عالم مفتوح ومغامرات خيالية.",
    "shots": [],
-   "icon": "",
+   "icon": "https://www.google.com/s2/favicons?domain=genshin.hoyoverse.com&sz=128",
    "date": 1792190889584
   },
   {
@@ -426,7 +426,7 @@
    "url": "https://play.google.com/store/apps/details?id=com.mobile.legends",
    "desc": "ألعاب مواجهة جماعية 5 ضد 5.",
    "shots": [],
-   "icon": "",
+   "icon": "https://www.google.com/s2/favicons?domain=mobilelegends.com&sz=128",
    "date": 1792190889583
   },
   {
@@ -459,7 +459,7 @@
    "url": "https://play.google.com/store/apps/details?id=com.fingersoft.hillclimb",
    "desc": "سباق فيزيائي على التلال.",
    "shots": [],
-   "icon": "",
+   "icon": "https://www.google.com/s2/favicons?domain=fingersoft.com&sz=128",
    "date": 1792190889581
   },
   {
@@ -471,7 +471,7 @@
    "url": "https://play.google.com/store/apps/details?id=com.kitkagames.fallbuddies",
    "desc": "سباقات ومنافسات جماعية مرحة.",
    "shots": [],
-   "icon": "",
+   "icon": "https://www.google.com/s2/favicons?domain=stumbleguys.com&sz=128",
    "date": 1792192391523
   }
  ],
@@ -554,7 +554,7 @@
    "icon": "uploads/mvbicpaqisr-1000246136.webp"
   }
  ],
- "ver": 1792192392334,
+ "ver": 1792192509652,
  "sections": [
   {
    "title": "مهكر",
