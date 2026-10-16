@@ -142,7 +142,8 @@
    "desc": "انضم لمجموعتنا على واتساب",
    "url": "https://chat.whatsapp.com/D4tkhgh8D5KKvQlFhX0Af2?s=cl&p=a&mlu=4&ilr=4",
    "kind": "wa",
-   "color": "#9b3fc4"
+   "color": "#9b3fc4",
+   "icon": "uploads/mvbib1p52mn-1000246135.webp"
   },
   {
    "id": "c2",
@@ -150,7 +151,8 @@
    "desc": "تابع القناة في واتساب",
    "url": "https://whatsapp.com/channel/0029Vb7xTVb3AzNPUC4TiU2k",
    "kind": "wa",
-   "color": "#9b3fc4"
+   "color": "#9b3fc4",
+   "icon": "uploads/mvbibdw548e-1000246135.webp"
   },
   {
    "id": "c3",
@@ -169,7 +171,7 @@
    "color": "#9b3fc4"
   }
  ],
- "ver": 1792187559592,
+ "ver": 1792187761420,
  "sections": [
   {
    "title": "مهكر",
