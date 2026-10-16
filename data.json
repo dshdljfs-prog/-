@@ -160,7 +160,8 @@
    "desc": "@b__o__d__a__04",
    "url": "https://www.tiktok.com/@b__o__d__a__04",
    "kind": "tt",
-   "color": "#9b3fc4"
+   "color": "#9b3fc4",
+   "icon": "uploads/mvbicwfyc35-1000261134.png"
   },
   {
    "id": "c4",
@@ -168,10 +169,11 @@
    "desc": "تابع صفحتنا على فيسبوك",
    "url": "https://www.facebook.com/share/1GogYKyH26/",
    "kind": "fb",
-   "color": "#9b3fc4"
+   "color": "#9b3fc4",
+   "icon": "uploads/mvbicpaqisr-1000246136.webp"
   }
  ],
- "ver": 1792187761420,
+ "ver": 1792187835055,
  "sections": [
   {
    "title": "مهكر",
