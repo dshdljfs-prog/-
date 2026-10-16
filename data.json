@@ -27,7 +27,7 @@
   "maintenance": false,
   "maintenanceMsg": "الموقع تحت الصيانة، هنرجع قريبًا.",
   "reqLogin": true,
-  "bigHome": true
+  "bigHome": false
  },
  "apps": [
   {
@@ -555,7 +555,7 @@
    "icon": "uploads/mvbicpaqisr-1000246136.webp"
   }
  ],
- "ver": 1792193729798,
+ "ver": 1792193740062,
  "sections": [
   {
    "title": "مهكر",
