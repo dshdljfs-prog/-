@@ -3270,7 +3270,7 @@
    "icon": "uploads/mvbicpaqisr-1000246136.webp"
   }
  ],
- "ver": 1792199248803,
+ "ver": 1792200429968,
  "sections": [
   {
    "title": "مهكر",
@@ -3294,19 +3294,6 @@
  ],
  "bans": [],
  "admins": [
-  {
-   "id": "mva461h71ki",
-   "name": "بوده المكسيكي",
-   "salt": "93fc7045435518c8dd681489",
-   "h": "926290c02c6817bad582ed0390eb048b8892dbea7fe943426ef9747abab127d2",
-   "perms": {
-    "pub": 1,
-    "ban": 1,
-    "msg": 1,
-    "mnt": 0
-   },
-   "t": 1792103524603
-  },
   {
    "id": "mvb0ds42n00",
    "name": "بوده",
