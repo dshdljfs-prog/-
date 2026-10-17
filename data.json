@@ -3190,13 +3190,17 @@
    "id": "mvbpyxdpifo",
    "name": "جي تي إيه سان أندرياس",
    "cat": "مدفوعة",
-   "ver": "",
-   "size": "",
+   "ver": "v2.6.2",
+   "size": "520.17",
    "url": "https://play.google.com/store/apps/details?id=com.rockstargames.gtasa",
    "desc": "مدفوع — يُشترى من المتجر الرسمي على Google Play.",
    "shots": [],
    "icon": "https://www.google.com/s2/favicons?domain=rockstargames.com&sz=128",
-   "date": 1792198610427
+   "date": 1792198610427,
+   "pu": "https://play.google.com/store/apps/details?id=com.rockstargames.gtasa",
+   "price": "20$",
+   "yt": "",
+   "feat": false
   },
   {
    "id": "mvbpyxdptei",
@@ -3511,7 +3515,7 @@
    "icon": "uploads/mvbicpaqisr-1000246136.webp"
   }
  ],
- "ver": 1792200835584,
+ "ver": 1792200949059,
  "sections": [
   {
    "title": "مهكر",
@@ -3622,6 +3626,11 @@
    "dl": 20,
    "n": 1000,
    "avg": 5
+  },
+  "mvbpyxdpifo": {
+   "dl": 60,
+   "n": 30,
+   "avg": 4
   }
  },
  "cm": [
