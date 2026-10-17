@@ -97,6 +97,18 @@
    "yt": ""
   },
   {
+   "id": "mvbk6kqytrw",
+   "name": "واتساب",
+   "cat": "تطبيقات",
+   "ver": "",
+   "size": "",
+   "url": "https://play.google.com/store/apps/details?id=com.whatsapp",
+   "desc": "تطبيق المراسلة والمكالمات المجانية الأشهر في العالم.",
+   "shots": [],
+   "icon": "https://www.google.com/s2/favicons?domain=whatsapp.com&sz=128",
+   "date": 1792190889610
+  },
+  {
    "id": "mvbk6kqzjqn",
    "name": "تيليجرام",
    "cat": "تطبيقات",
@@ -3503,7 +3515,7 @@
    "icon": "uploads/mvbicpaqisr-1000246136.webp"
   }
  ],
- "ver": 1792201488851,
+ "ver": 1792201515177,
  "sections": [
   {
    "title": "مهكر",
