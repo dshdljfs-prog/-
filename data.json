@@ -53,7 +53,7 @@
   {
    "shots": [],
    "pu": "",
-   "price": "جي تي اي سان اندرس ",
+   "price": "20$",
    "name": "جي تي اي سان اندرس",
    "cat": "ألعاب",
    "ver": "v2.6.2",
@@ -63,7 +63,7 @@
    "yt": "",
    "feat": false,
    "paid": true,
-   "sp": "E1:{\"i\":\"RF6I5ToVUZ5weIO+\",\"c\":\"K+VekeSRfh6oxpAPmMt/hVVy7jNCmAOZ1qxar37JlFdDAfiL9KkmoMUdePQTxkafa08j8kcUOxNV6SjwlG3jiriWzscKlOnRgOYC6Hw6hvQy7CC5oI0pPWEePCdh\",\"k\":\"bFrvPoz/uFGypMR3K25uNckJHOV8YGkK+umqiMxdh2TYiXcUg4seGGWsv+Bs6esvfTTSjTZxGx9KzEgRHMMN90PeirETpqVz9MlM+pmrV7Fp4crtHYTGVog0HBE/MJ5Dns4Pd80/w6lrx3hApwrmWG5XUaXrCr1D6aQBTV5EPfsB9OffsV5K/wGSFWtuZCpz3AlCOV3AOJStdH9tncjLAjJvcoMoWBerpAqIm7lO4xN0EfOUN9mkP+RBUTJIvIabVnJx/AN0nHT2GqNhWs3A84h4ycVdnLF8dUyWchqPZx8fxcO2GnsVYjcl+IvE4Yn6L5LfDMYh/0pdvBvFFvijjA==\"}",
+   "sp": "E1:{\"i\":\"3CftWs/+vB+6TXaW\",\"c\":\"JCllsK/LoPiotaXg1wOipyeD5AltPdpshMfvxKTOJldQT6eUWp+GCw6wZYbuF6MflqB+/2Nji9oKLeeevJwOQBKoenXGsF0vcPAFcrdBU6ZnlUzgTcmIJQuukO2z\",\"k\":\"RzVjmTB+lQ80Hq8MVL+g+KlD0jj92Bap/eQ5hzTmSthtAMh4ZIQMlJpmDOYUKrgeh850udAimCgiMMPPHm6/FPojcc3/e4FjacZbNGH80rLOdRZmrCGrxrh5aRef/qXLtohxbMHkp3LYjGrTUYdeeMQ2/Dp2DPwPY1wdW22MLbWqlE3PnI2OWuI+2grOGzlPo8Cpl3Ub4jeCiVt6JrF2AObW5lkAZ74vlp7qV7izhY/YgOxeXARzu7ZcN/Ccsn1MKFrE1teKXoYHhYqpTDA2eoBOjFIYU48jCkxMjAZsGdjJVOuzwUSTuqCBdXJ3RaeICl6gG4wvjD+fTyAKZb3qbg==\"}",
    "id": "mvbq8id6yd8",
    "date": 1792201057530
   },
@@ -3550,7 +3550,7 @@
    "icon": "uploads/mvbicpaqisr-1000246136.webp"
   }
  ],
- "ver": 1792201217706,
+ "ver": 1792201315476,
  "sections": [
   {
    "title": "مهكر",
