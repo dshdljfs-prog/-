@@ -97,18 +97,6 @@
    "yt": ""
   },
   {
-   "id": "mvbk6kqzjqn",
-   "name": "تيليجرام",
-   "cat": "تطبيقات",
-   "ver": "",
-   "size": "",
-   "url": "https://play.google.com/store/apps/details?id=org.telegram.messenger",
-   "desc": "مراسلة سريعة وآمنة مع قنوات ومجموعات ضخمة.",
-   "shots": [],
-   "icon": "https://www.google.com/s2/favicons?domain=telegram.org&sz=128",
-   "date": 1792190889609
-  },
-  {
    "id": "mvbk6kqz452",
    "name": "إنستجرام",
    "cat": "تطبيقات",
@@ -3503,7 +3491,7 @@
    "icon": "uploads/mvbicpaqisr-1000246136.webp"
   }
  ],
- "ver": 1792202369055,
+ "ver": 1792202381752,
  "sections": [
   {
    "title": "مهكر",
