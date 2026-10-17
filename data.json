@@ -27,7 +27,8 @@
   "maintenance": false,
   "maintenanceMsg": "الموقع تحت الصيانة، هنرجع قريبًا.",
   "reqLogin": true,
-  "bigHome": false
+  "bigHome": false,
+  "ownerName": "عبدالرحمن السعيد"
  },
  "apps": [
   {
@@ -3269,7 +3270,7 @@
    "icon": "uploads/mvbicpaqisr-1000246136.webp"
   }
  ],
- "ver": 1792198956590,
+ "ver": 1792199144620,
  "sections": [
   {
    "title": "مهكر",
