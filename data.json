@@ -33,23 +33,6 @@
  },
  "apps": [
   {
-   "shots": [],
-   "pu": "",
-   "price": "20$",
-   "name": "جي تي اي سان اندرس",
-   "cat": "ألعاب",
-   "ver": "v2.6.2",
-   "size": "520.1",
-   "url": "",
-   "desc": "",
-   "yt": "",
-   "feat": false,
-   "paid": true,
-   "sp": "E1:{\"i\":\"3CftWs/+vB+6TXaW\",\"c\":\"JCllsK/LoPiotaXg1wOipyeD5AltPdpshMfvxKTOJldQT6eUWp+GCw6wZYbuF6MflqB+/2Nji9oKLeeevJwOQBKoenXGsF0vcPAFcrdBU6ZnlUzgTcmIJQuukO2z\",\"k\":\"RzVjmTB+lQ80Hq8MVL+g+KlD0jj92Bap/eQ5hzTmSthtAMh4ZIQMlJpmDOYUKrgeh850udAimCgiMMPPHm6/FPojcc3/e4FjacZbNGH80rLOdRZmrCGrxrh5aRef/qXLtohxbMHkp3LYjGrTUYdeeMQ2/Dp2DPwPY1wdW22MLbWqlE3PnI2OWuI+2grOGzlPo8Cpl3Ub4jeCiVt6JrF2AObW5lkAZ74vlp7qV7izhY/YgOxeXARzu7ZcN/Ccsn1MKFrE1teKXoYHhYqpTDA2eoBOjFIYU48jCkxMjAZsGdjJVOuzwUSTuqCBdXJ3RaeICl6gG4wvjD+fTyAKZb3qbg==\"}",
-   "id": "mvbq8id6yd8",
-   "date": 1792201057530
-  },
-  {
    "shots": [
     "uploads/mva4fqmcx4n-1000260030.jpg"
    ],
@@ -3532,7 +3515,7 @@
    "icon": "uploads/mvbicpaqisr-1000246136.webp"
   }
  ],
- "ver": 1792201366444,
+ "ver": 1792201370565,
  "sections": [
   {
    "title": "مهكر",
