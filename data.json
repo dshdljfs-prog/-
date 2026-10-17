@@ -3515,7 +3515,7 @@
    "icon": "uploads/mvbicpaqisr-1000246136.webp"
   }
  ],
- "ver": 1792201414662,
+ "ver": 1792201439950,
  "sections": [
   {
    "title": "مهكر",
@@ -3719,6 +3719,11 @@
    {
     "k": "#main>div:nth-child(8)>div:nth-child(2)>div:nth-child(5)>span:nth-child(2)",
     "to": "#main>div:nth-child(8)>div:nth-child(2)>div:nth-child(4)>span:nth-child(1)",
+    "p": "before"
+   },
+   {
+    "k": "#aback",
+    "to": "#main>div:nth-child(8)>div:nth-child(2)>div:nth-child(4)>span:nth-child(2)",
     "p": "before"
    }
   ]
