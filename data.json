@@ -3482,7 +3482,7 @@
    "icon": "uploads/mvbicpaqisr-1000246136.webp"
   }
  ],
- "ver": 1792331548220,
+ "ver": 1792331624527,
  "sections": [
   {
    "title": "مهكر",
@@ -3736,6 +3736,12 @@
   "h": "5807152c555c25a1d3b6f7e4294e12f667e35333d1acad7a45ff58912b0e038e"
  },
  "bc": [
+  {
+   "id": "mvdvyzupy6n",
+   "to": "admins",
+   "text": "معتش حاجة على النزول",
+   "ts": 1792331623682
+  },
   {
    "id": "mvdvxcugrdz",
    "to": "users",
