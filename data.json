@@ -48,7 +48,8 @@
    "feat": false,
    "icon": "uploads/mva4fiae4kj-1000260030.jpg",
    "id": "mva4fudtdeu",
-   "date": 1792103981969
+   "date": 1792103981969,
+   "rel": 1792334760000
   },
   {
    "shots": [
@@ -3481,7 +3482,7 @@
    "icon": "uploads/mvbicpaqisr-1000246136.webp"
   }
  ],
- "ver": 1792287940950,
+ "ver": 1792288120190,
  "sections": [
   {
    "title": "مهكر",
@@ -3700,5 +3701,12 @@
   "salt": "06955f2a909672760d7eacae",
   "h": "5807152c555c25a1d3b6f7e4294e12f667e35333d1acad7a45ff58912b0e038e"
  },
- "bc": []
+ "bc": [],
+ "launch": {
+  "title": "نزول تطبيق جديد ذهبي",
+  "msg": "نزول اقوة تطبيق ذهبي بدون اعلانات",
+  "img": "uploads/mvd60unip0e-1000262131.png",
+  "at": 1792334760000,
+  "appId": "mva4fudtdeu"
+ }
 }
