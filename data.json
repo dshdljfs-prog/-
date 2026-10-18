@@ -3479,7 +3479,7 @@
    "icon": "uploads/mvbicpaqisr-1000246136.webp"
   }
  ],
- "ver": 1792202507289,
+ "ver": 1792286038939,
  "sections": [
   {
    "title": "مهكر",
@@ -3699,6 +3699,12 @@
   "h": "5807152c555c25a1d3b6f7e4294e12f667e35333d1acad7a45ff58912b0e038e"
  },
  "bc": [
+  {
+   "id": "mvd4txm3dn1",
+   "to": "admins",
+   "text": "اهلا بكم",
+   "ts": 1792286037868
+  },
   {
    "id": "mvbpx0symbc",
    "to": "admins",
