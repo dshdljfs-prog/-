@@ -100,18 +100,6 @@
    "yt": ""
   },
   {
-   "id": "mvbk6kqzknk",
-   "name": "يوتيوب",
-   "cat": "تطبيقات",
-   "ver": "",
-   "size": "",
-   "url": "https://play.google.com/store/apps/details?id=com.google.android.youtube",
-   "desc": "شاهد ملايين الفيديوهات والبث المباشر.",
-   "shots": [],
-   "icon": "https://www.google.com/s2/favicons?domain=youtube.com&sz=128",
-   "date": 1792190889606
-  },
-  {
    "id": "mvbk6kqzj31",
    "name": "فيسبوك",
    "cat": "تطبيقات",
@@ -3470,7 +3458,7 @@
    "icon": "uploads/mvbicpaqisr-1000246136.webp"
   }
  ],
- "ver": 1793364800359,
+ "ver": 1793364804542,
  "sections": [
   {
    "title": "مهكر",
