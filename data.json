@@ -3458,7 +3458,7 @@
    "icon": "uploads/mvbicpaqisr-1000246136.webp"
   }
  ],
- "ver": 1793364975299,
+ "ver": 1793365032816,
  "sections": [],
  "bans": [],
  "admins": [
@@ -3693,12 +3693,6 @@
   "h": "5807152c555c25a1d3b6f7e4294e12f667e35333d1acad7a45ff58912b0e038e"
  },
  "bc": [
-  {
-   "id": "mvdvyzupy6n",
-   "to": "admins",
-   "text": "معتش حاجة على النزول",
-   "ts": 1792331623682
-  },
   {
    "id": "mvdvxcugrdz",
    "to": "users",
