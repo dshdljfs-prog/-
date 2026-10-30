@@ -100,18 +100,6 @@
    "yt": ""
   },
   {
-   "id": "mvbk6kqz47g",
-   "name": "تيك توك",
-   "cat": "تطبيقات",
-   "ver": "",
-   "size": "",
-   "url": "https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically",
-   "desc": "مقاطع فيديو قصيرة وترندات يومية.",
-   "shots": [],
-   "icon": "https://www.google.com/s2/favicons?domain=tiktok.com&sz=128",
-   "date": 1792190889607
-  },
-  {
    "id": "mvbk6kqzknk",
    "name": "يوتيوب",
    "cat": "تطبيقات",
@@ -3482,7 +3470,7 @@
    "icon": "uploads/mvbicpaqisr-1000246136.webp"
   }
  ],
- "ver": 1793034239918,
+ "ver": 1793364800359,
  "sections": [
   {
    "title": "مهكر",
