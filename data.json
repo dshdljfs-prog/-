@@ -892,18 +892,6 @@
    "date": 1792192743683
   },
   {
-   "id": "mvblvqzxx9s",
-   "name": "جوجل",
-   "cat": "تطبيقات",
-   "ver": "",
-   "size": "",
-   "url": "https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox",
-   "desc": "تطبيق جوجل — رابط التحميل الرسمي من متجر Google Play.",
-   "shots": [],
-   "icon": "https://www.google.com/s2/favicons?domain=google.com&sz=128",
-   "date": 1792192743682
-  },
-  {
    "id": "mvblvqzxvpk",
    "name": "جوجل كالندر",
    "cat": "أدوات",
@@ -3464,7 +3452,7 @@
    "icon": "uploads/mvbicpaqisr-1000246136.webp"
   }
  ],
- "ver": 1793445029333,
+ "ver": 1793445038552,
  "sections": [],
  "bans": [],
  "admins": [
