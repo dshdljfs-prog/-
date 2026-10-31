@@ -190,18 +190,6 @@
    "date": 1792190889599
   },
   {
-   "id": "mvbk6kqz74t",
-   "name": "جوجل كروم",
-   "cat": "أدوات",
-   "ver": "",
-   "size": "",
-   "url": "https://play.google.com/store/apps/details?id=com.android.chrome",
-   "desc": "متصفح سريع وآمن من جوجل.",
-   "shots": [],
-   "icon": "https://www.google.com/s2/favicons?domain=chrome.com&sz=128",
-   "date": 1792190889598
-  },
-  {
    "id": "mvbk6kqzc3z",
    "name": "في إل سي",
    "cat": "أدوات",
@@ -3380,7 +3368,7 @@
    "icon": "uploads/mvbicpaqisr-1000246136.webp"
   }
  ],
- "ver": 1793445093173,
+ "ver": 1793445104989,
  "sections": [],
  "bans": [],
  "admins": [
