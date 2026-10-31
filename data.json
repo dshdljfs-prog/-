@@ -3272,18 +3272,6 @@
    "date": 1792198610415
   },
   {
-   "id": "mvbpyxdp6my",
-   "name": "تاسكر",
-   "cat": "مدفوعة",
-   "ver": "",
-   "size": "",
-   "url": "https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm",
-   "desc": "مدفوع — يُشترى من المتجر الرسمي على Google Play.",
-   "shots": [],
-   "icon": "https://www.google.com/s2/favicons?domain=tasker.joaoapps.com&sz=128",
-   "date": 1792198610414
-  },
-  {
    "id": "mvbpyxdprok",
    "name": "نوفا لانشر برايم",
    "cat": "مدفوعة",
@@ -3416,7 +3404,7 @@
    "icon": "uploads/mvbicpaqisr-1000246136.webp"
   }
  ],
- "ver": 1793445066569,
+ "ver": 1793445073861,
  "sections": [],
  "bans": [],
  "admins": [
