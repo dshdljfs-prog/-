@@ -3260,18 +3260,6 @@
    "date": 1792198610416
   },
   {
-   "id": "mvbpyxdp8mt",
-   "name": "باور أمب (النسخة الكاملة)",
-   "cat": "مدفوعة",
-   "ver": "",
-   "size": "",
-   "url": "https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer.unlock",
-   "desc": "مدفوع — يُشترى من المتجر الرسمي على Google Play.",
-   "shots": [],
-   "icon": "https://www.google.com/s2/favicons?domain=powerampapp.com&sz=128",
-   "date": 1792198610415
-  },
-  {
    "id": "mvbpyxdprok",
    "name": "نوفا لانشر برايم",
    "cat": "مدفوعة",
@@ -3404,7 +3392,7 @@
    "icon": "uploads/mvbicpaqisr-1000246136.webp"
   }
  ],
- "ver": 1793445073861,
+ "ver": 1793445081645,
  "sections": [],
  "bans": [],
  "admins": [
