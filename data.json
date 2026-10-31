@@ -274,18 +274,6 @@
    "date": 1792190889592
   },
   {
-   "id": "mvbk6kqzu9x",
-   "name": "روبلوكس",
-   "cat": "ألعاب",
-   "ver": "",
-   "size": "",
-   "url": "https://play.google.com/store/apps/details?id=com.roblox.client",
-   "desc": "ملايين الألعاب التي يصنعها اللاعبون.",
-   "shots": [],
-   "icon": "https://www.google.com/s2/favicons?domain=roblox.com&sz=128",
-   "date": 1792190889591
-  },
-  {
    "id": "mvbk6kqzlaf",
    "name": "كلاش أوف كلانس",
    "cat": "ألعاب",
@@ -3392,7 +3380,7 @@
    "icon": "uploads/mvbicpaqisr-1000246136.webp"
   }
  ],
- "ver": 1793445081645,
+ "ver": 1793445093173,
  "sections": [],
  "bans": [],
  "admins": [
