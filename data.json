@@ -346,18 +346,6 @@
    "date": 1792190889586
   },
   {
-   "id": "mvbk6kqzfh0",
-   "name": "أمونج أس",
-   "cat": "ألعاب",
-   "ver": "",
-   "size": "",
-   "url": "https://play.google.com/store/apps/details?id=com.innersloth.spacemafia",
-   "desc": "اكشف المحتال بين الطاقم.",
-   "shots": [],
-   "icon": "https://www.google.com/s2/favicons?domain=innersloth.com&sz=128",
-   "date": 1792190889585
-  },
-  {
    "id": "mvbk6kqztgx",
    "name": "جينشن إمباكت",
    "cat": "ألعاب",
@@ -3452,7 +3440,7 @@
    "icon": "uploads/mvbicpaqisr-1000246136.webp"
   }
  ],
- "ver": 1793445038552,
+ "ver": 1793445046771,
  "sections": [],
  "bans": [],
  "admins": [
