@@ -3320,18 +3320,6 @@
    "date": 1792198610411
   },
   {
-   "id": "mvbpyxdpjot",
-   "name": "إف إل ستوديو موبايل",
-   "cat": "مدفوعة",
-   "ver": "",
-   "size": "",
-   "url": "https://play.google.com/store/apps/details?id=com.imageline.FLM",
-   "desc": "مدفوع — يُشترى من المتجر الرسمي على Google Play.",
-   "shots": [],
-   "icon": "https://www.google.com/s2/favicons?domain=image-line.com&sz=128",
-   "date": 1792198610410
-  },
-  {
    "id": "mvbpyxdpuna",
    "name": "مونيومنت فالي 2",
    "cat": "مدفوعة",
@@ -3428,7 +3416,7 @@
    "icon": "uploads/mvbicpaqisr-1000246136.webp"
   }
  ],
- "ver": 1793445057581,
+ "ver": 1793445066569,
  "sections": [],
  "bans": [],
  "admins": [
