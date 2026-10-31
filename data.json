@@ -3342,18 +3342,6 @@
    "shots": [],
    "icon": "https://www.google.com/s2/favicons?domain=monumentvalleygame.com&sz=128",
    "date": 1792198610409
-  },
-  {
-   "id": "mvbpyxdpis2",
-   "name": "ماشينيريوم",
-   "cat": "مدفوعة",
-   "ver": "",
-   "size": "",
-   "url": "https://play.google.com/store/apps/details?id=air.com.amanitadesign.Machinarium",
-   "desc": "مدفوع — يُشترى من المتجر الرسمي على Google Play.",
-   "shots": [],
-   "icon": "https://www.google.com/s2/favicons?domain=amanita-design.net&sz=128",
-   "date": 1792198610408
   }
  ],
  "posts": [],
@@ -3440,7 +3428,7 @@
    "icon": "uploads/mvbicpaqisr-1000246136.webp"
   }
  ],
- "ver": 1793445046771,
+ "ver": 1793445057581,
  "sections": [],
  "bans": [],
  "admins": [
