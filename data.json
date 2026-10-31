@@ -178,18 +178,6 @@
    "date": 1792190889601
   },
   {
-   "id": "mvbk6kqzivc",
-   "name": "نتفليكس",
-   "cat": "تطبيقات",
-   "ver": "",
-   "size": "",
-   "url": "https://play.google.com/store/apps/details?id=com.netflix.mediaclient",
-   "desc": "أفلام ومسلسلات بدون حدود.",
-   "shots": [],
-   "icon": "https://www.google.com/s2/favicons?domain=netflix.com&sz=128",
-   "date": 1792190889600
-  },
-  {
    "id": "mvbk6kqzwtb",
    "name": "كاب كات",
    "cat": "أدوات",
@@ -3476,7 +3464,7 @@
    "icon": "uploads/mvbicpaqisr-1000246136.webp"
   }
  ],
- "ver": 1793366434390,
+ "ver": 1793445029333,
  "sections": [],
  "bans": [],
  "admins": [
